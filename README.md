@@ -1,0 +1,2 @@
+# project
+#baigiamasis_darbas
